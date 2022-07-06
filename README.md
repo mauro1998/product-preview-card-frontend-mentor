@@ -2,6 +2,7 @@
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -36,3 +37,4 @@ Users should be able to:
 - [Vitejs](https://vitejs.dev/) - Build tool
 - [Svelte](https://svelte.dev/) - JS Framework
 
+Look inside `/app` folder for Svelte application code.
