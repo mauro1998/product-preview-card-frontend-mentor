@@ -9,7 +9,7 @@
 
   onMount(async () => {
     loading = true;
-    const response = await (await fetch('/data/product.json')).json();
+    const response = await (await fetch('data/product.json')).json();
     product = new Product(
       response.type,
       response.title,
